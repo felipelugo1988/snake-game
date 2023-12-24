@@ -1,0 +1,1 @@
+This is a little proyect about a snake game you can try to play and take a look at some code in javascript
